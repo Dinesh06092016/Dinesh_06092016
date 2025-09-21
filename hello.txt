@@ -1,1 +1,3 @@
-Hello from Amazon Linux
+Hello from Amazon LinuxDineshi:
+:wq!
+
